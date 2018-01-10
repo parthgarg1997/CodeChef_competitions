@@ -1,7 +1,7 @@
 package jan18;
 
 import java.util.Scanner;
-//hey
+//hey my name is 
 public class Maximum_scores {
 public static void main(String args[])
 {

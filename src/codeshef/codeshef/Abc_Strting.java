@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Abc_Strting {
 
+
 	public static void main(String args[])
 	{
 		long count=0;
