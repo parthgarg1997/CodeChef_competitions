@@ -11,7 +11,7 @@ public class MatrixChainMUltiplication {
 			for(int i=0;i<l;i++)
 			{
 			int j=i+q;
-			//hello
+			//hello my friend#
 			if(j==i)
 				x[i][j]=0;
 			else
